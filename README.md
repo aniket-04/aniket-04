@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## @itissandeep98
+## @aniket-04
+### Hi, I am Aniket kapoor 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
