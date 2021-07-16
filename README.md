@@ -5,7 +5,7 @@
 
 `Hello! I am Aniket kapoor, a postgrad at BVICAM Delhi. Currently working in some web development projects. `
 
-![visitors](https://komarev.com/ghpvc/?username=itissandeep98)
+![visitors](https://komarev.com/ghpvc/?username=aniket-04)
 
 ## My Recent work
 
