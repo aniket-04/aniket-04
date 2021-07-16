@@ -1,7 +1,7 @@
 ## Hi Coders 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=www.linkedin.com/in/aniket-kapoor-04)](https://www.linkedin.com/in/aniket-kapoor-04)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:aniketkapoor31@gmail.com)](mailto:aniketkapoor31@gmail.com)
 
 `Hello! I am Aniket kapoor, a postgrad at BVICAM Delhi. Currently working in some web development projects. `
 
