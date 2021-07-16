@@ -1,9 +1,9 @@
-## Hi, I am Aniket kapoor 👋
+## Hi Coders 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=www.linkedin.com/in/aniket-kapoor-04)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
 
-`Hello! I am Sandeep, an undergrad at IIIT Delhi. Currently working in some web development projects. `
+`Hello! I am Aniket kapoor, a postgrad at BVICAM Delhi. Currently working in some web development projects. `
 
 ![visitors](https://komarev.com/ghpvc/?username=itissandeep98)
 
