@@ -10,7 +10,9 @@
 ## My Recent work
 
 - IIITD based startup [link](https://memboro.com)
-- A web app to create timetable of only selected courseS.
+- Photobia- photo sharing web app.
+- A web app to create timetable of only selected courses.
+- voice Calculator
 
 ## Technology I am Familiar with
 
