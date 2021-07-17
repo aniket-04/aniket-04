@@ -12,7 +12,7 @@
 - IIITD based startup [link](https://memboro.com)
 - Photobia- photo sharing web app.
 - A web app to create timetable of only selected courses.
-- voice Calculator
+- Voice Smart Calculator
 
 ## Technology I am Familiar with
 
