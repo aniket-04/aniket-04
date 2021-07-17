@@ -26,4 +26,4 @@
 [![Java](https://img.shields.io/badge/-Java-orange?style=social&logo=java&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![MySQL](https://img.shields.io/badge/-MySQL-violet?style=social&logo=mysql&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-04&theme=radical&layout=compact" alt="languages"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itissandeep98&theme=radical&layout=compact" alt="languages"/>
