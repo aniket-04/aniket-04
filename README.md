@@ -9,7 +9,7 @@
 
 ## My Recent work
 
-- Ignite - keeps you up to date in Games.(Currently Working)
+- Ignite - keeps you up to date in Games.(Currently in development phase)
 - Photobia- Photos sharing social media website.
 - A web app to create timetable of only selected courses.
 - Voice CalC - A smart Calculator
