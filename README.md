@@ -9,7 +9,7 @@
 
 ## My Recent work
 
-- Photobia- photo sharing web app.
+- Photobia- Photos sharing social media website.
 - A web app to create timetable of only selected courses.
 - Voice Smart Calculator
 - My-keeper 
