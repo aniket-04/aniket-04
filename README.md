@@ -11,8 +11,8 @@
 
 - Photobia- Photos sharing social media website.
 - A web app to create timetable of only selected courses.
-- Voice Smart Calculator
-- My-keeper 
+- Voice CalC - A smart Calculator
+- My-keeper - buddy that will help you to keep your tasks done.
 
 ## Technology I am Familiar with
 
