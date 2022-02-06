@@ -9,7 +9,6 @@
 
 ## My Recent work
 
-- Ignite - One stop for all Gaming related information. (Currently in development phase)
 - Photobia- Photos sharing social media website.
 - A web app to create timetable of only selected courses.
 - Voice CalC - A smart Calculator
