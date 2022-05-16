@@ -15,7 +15,7 @@
 - My-keeper - buddy that will help you to keep your tasks done.
 
 ## Technology I am Familiar with
-[![ReactNative](https://img.shields.io/badge/-ReactJS-black?style=social&logo=react&link=https://github.com/aniket-04/)](https://github.com/aniket-04/)
+[![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=social&logo=react&link=https://github.com/aniket-04/)](https://github.com/aniket-04/)
 [![Reactjs](https://img.shields.io/badge/-ReactJS-black?style=social&logo=react&link=https://github.com/aniket-04/)](https://github.com/aniket-04/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=social&logo=javascript&link=https://github.com/aniket-04/)](https://github.com/aniket-04/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=social&logo=html5&link=https://github.com/aniket-04/)](https://github.com/aniket-04/)
